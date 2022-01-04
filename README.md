@@ -4,6 +4,7 @@ You can also find me on
 
 - 🌎 [my portfolio](https://www.clairefroelichdev.com/)
 - 🤝 [Linkedin](https://www.linkedin.com/in/claire-froelich/)
+- ✏️ [Dev.to](https://dev.to/clairefro)
 - ✏️ [Medium](https://medium.com/@clairefroelich)
 - 📦 [npm](https://www.npmjs.com/settings/clairefro/packages)
 - ⚔️ [Codewars](https://www.codewars.com/users/clairefro)

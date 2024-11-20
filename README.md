@@ -5,11 +5,11 @@
 You can also find me on 
 
 - 🐔 [Twitter @clairefroe](https://twitter.com/clairefroe)
+- 🌎 [website](https://www.clairefro.dev/)
 - 🤝 [Linkedin](https://www.linkedin.com/in/claire-froelich/)
 - ✏️ [Dev.to](https://dev.to/clairefro)
 - ✏️ [Medium](https://medium.com/@clairefroelich)
 - 📦 [npm](https://www.npmjs.com/settings/clairefro/packages)
-- 🌎 [website](https://www.clairefro.dev/)
 - 🎵 [Soundcloud](https://soundcloud.com/user-853838561-945972965)
 - 🥕 [children's book about farting dear](https://www.power-of-vegetables.com/)
 

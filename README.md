@@ -9,7 +9,7 @@ You can also find me on
 - 🤝 [Linkedin](https://www.linkedin.com/in/claire-froelich/)
 - ✏️ [Dev.to](https://dev.to/clairefro)
 - ✏️ [Medium](https://medium.com/@clairefroelich)
-- 📦 [npm](https://www.npmjs.com/settings/clairefro/packages)
+- 📦 [npm](https://www.npmjs.com/~clairefro)
 - 🎵 [Soundcloud](https://soundcloud.com/user-853838561-945972965)
 - 🥕 [children's book about farting dear](https://www.power-of-vegetables.com/)
 
